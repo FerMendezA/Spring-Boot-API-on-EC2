@@ -1,0 +1,9 @@
+com\example\demo\DemoApplication.class
+com\example\demo\alumno\AlumnoController.class
+com\example\demo\alumno\AlumnoRepository.class
+com\example\demo\profesor\ProfesorService.class
+com\example\demo\alumno\Alumno.class
+com\example\demo\alumno\AlumnoService.class
+com\example\demo\profesor\ProfesorController.class
+com\example\demo\profesor\Profesor.class
+com\example\demo\profesor\ProfesorRepository.class
